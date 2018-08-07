@@ -31,23 +31,24 @@ Once topics were assigned to each abstract for each year the relative frequency 
 ## Findings (in a nut shell)
 When the budget for the NIH since 1985 is compared to the budget in 1985 adjusted for inflation each year it’s easy to see that actual funding has not kept pace with inflation. This means that the money allocated to the NIH has effectively decreased since 1985.
 
-(Graph)
+![inflation](/images/inflation.png)
 
 The decrease in buying power of the NIH budget correlates with a decrease in success rate of R01s since 1985. Another interesting trend is the budget before and after 2003. Before 2003, the budget grew at a much faster rate than after 2003. When looking at the trend in success rate before and after 2003 we see an interesting correlation. The success decreased at a faster rate after 2003 than before 2003.
 
-(Graph)
+![success_rate](/images/success_rate.png)
 
 When the number of topics represented over time is compared to budget we can see that after 2003 the number of topics remained unchanged while there was a general increase in number of topics before 2003.
 
-(Graph)
+![topics](/images/budget_number-of-topics.png)
 
 2003 provides an interesting division point. To assess which topics were most affected by any changes that occurred in 2003, the abstracts before and after 2003 were grouped and fold change was calculated between the two time points. When the top 5 increased and decreased categories were displayed we could see that the distinct difference in the relative frequency pattern. 
 
-(Graph)
+![top_bottom_fc](/images/top_bottom_fc.png)
 
 This indicated there may be discrete groups of clusters based on changes in relative frequency over time. Categories were clustered based on similarity and clusters that followed trends of increase or decrease after 2003 were selected. This indicates that certain research topics may be negatively or positively affected by constrictions in funding to the NIH
 
-(Graph)
+![cluster_11](/images/example_cluster_11.png)
+![cluster_23](/images/example_cluster_23.png)
 
 ## Caveats
 
